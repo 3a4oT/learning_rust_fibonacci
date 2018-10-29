@@ -1,0 +1,6 @@
+[package]
+name = "learning_rust_fibonacci"
+version = "0.1.0"
+authors = ["3a4oT <petro.rovenskyy@gmail.com>"]
+
+[dependencies]
